@@ -1,16 +1,50 @@
-## Hi there 👋
+### Hi there, I'm Tunahan Türker Ertürk! 👋
 
-<!--
-**tunisch/tunisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunahanturkererturk/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tunisch)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/photographertuna)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 About Me
+- 🎓 Software Engineer
+- 🤖 Interested in **Artificial Intelligence, IoT, Image Processing, Computer Vision**
+- 📚 Currently working on **YOLOv5 Detection Project**
+- ✨ Passionate about **Photography & Visual Technologies**
+- 🌐 Love **open-source** & always learning new technologies
+
+---
+
+### 💡 My Skills
+
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white)
+
+#### Frameworks & Libraries
+![YOLO](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+### 🏆 GitHub Stats
+![Tunahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunisch&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tunisch&theme=radical&no-frame=true&margin-w=5)
+
+---
+
+### 👉 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunahanturkererturk/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tunisch)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/photographertuna)
