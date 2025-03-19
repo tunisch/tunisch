@@ -42,9 +42,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)                
 
+
 ---
 
 ### 👉 Connect with Me
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tunahanturkererturk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunahanturkererturk/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tunisch)
