@@ -9,7 +9,7 @@
 
 ### 📚 About Me
 - 🎓 Software Engineer
-- 🤖 Interested in **Artificial Intelligence, IoT, Image Processing, Computer Vision**
+- 🤖 Interested in **Machine Learning, Image Processing, Computer Vision**
 - 📚 Currently working on **YOLOv5 Detection Project**
 - ✨ Passionate about **Photography & Visual Technologies**
 - 🌐 Love **open-source** & always learning new technologies
@@ -20,7 +20,6 @@
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white)
 
 #### Frameworks & Libraries
 ![YOLO](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -30,7 +29,6 @@
 #### Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
