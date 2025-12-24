@@ -21,7 +21,8 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java 21](https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white)
+
+<!-- ![Java 21](https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white) -->
 
 
 
@@ -48,6 +49,14 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)                
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tunisch&theme=radical&no-frame=true&margin-w=5)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)](https://github.com/tunisch)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default)](https://github.com/tunisch)
+
+<!-- Eğer streak card görünmüyorsa endpointi kontrol et veya self-host kullan -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default)](https://github.com/tunisch)
+
 
 
 
