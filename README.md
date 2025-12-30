@@ -45,8 +45,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tunisch&theme=radical&no-frame=true&margin-w=5)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)](https://github.com/tunisch)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default)](https://github.com/tunisch)
 
 <!-- Eğer streak card görünmüyorsa endpointi kontrol et veya self-host kullan -->
