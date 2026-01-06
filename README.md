@@ -47,11 +47,10 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tunisch&theme=radical&no-frame=true&margin-w=5)
 
+
 ### 📊 3D Contribution Graph
 
-![3D GitHub Contributions](https://raw.githubusercontent.com/tunisch/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-
+![3D GitHub Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
