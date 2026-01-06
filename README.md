@@ -54,6 +54,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=redical)
 
+## 🐍 Contribution Snake
+
 ![Snake animation](https://raw.githubusercontent.com/tunisch/tunisch/output/github-contribution-grid-snake.svg)
 
 ---
