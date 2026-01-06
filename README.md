@@ -1,6 +1,7 @@
 ### Hi there, I'm Tunahan Türker Ertürk! 👋
 
 ---
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Software+Engineer;java+spring;Backend+Developer)
 
 ### 📚 About Me
 - 🎓 Software Engineer
@@ -57,6 +58,7 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/tunisch/tunisch/output/github-contribution-grid-snake.svg)
+
 
 ---
 
