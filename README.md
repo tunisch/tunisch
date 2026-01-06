@@ -39,9 +39,9 @@
 
 ### 🏆 GitHub Stats
 
-![Tunahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunisch&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
+![Tunahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunisch&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunisch&layout=compact&count_private=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
 
