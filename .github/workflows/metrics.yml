@@ -20,6 +20,7 @@ jobs:
           config_animations: yes
           config_twemoji: yes
           config_octicon: yes
+          config_output: svg
           
           base: header, activity, community, repositories
           config_timezone: Europe/Istanbul
