@@ -47,8 +47,14 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunisch&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical&langs_count=8&cache_seconds=86400)
+
+![GitHub Stats](https://stats-github.vercel.app/api?username=tunisch&show_icons=true&theme=radical)
+
+![Top Languages](https://stats-github.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
 
