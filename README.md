@@ -38,7 +38,7 @@
 
 ---
 ## 📊 GitHub Metrics
-![Metrics](./metrics.svg)
+![Metrics](https://raw.githubusercontent.com/tunisch/tunisch/main/github-metrics.svg?v=1)
 
 
 ### 📊 3D Contribution Graph
