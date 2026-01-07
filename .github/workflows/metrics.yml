@@ -15,7 +15,12 @@ jobs:
 
           user: tunisch
           template: classic
-
+          
+          config_display: large
+          config_animations: yes
+          config_twemoji: yes
+          config_octicon: yes
+          
           base: header, activity, community, repositories
           config_timezone: Europe/Istanbul
 
