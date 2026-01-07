@@ -38,25 +38,23 @@
 
 ---
 
-
-
-### 📊 3D Contribution Graph
-
-![3D GitHub Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=redical)
-
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=github-compact) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/tunisch/tunisch/output/github-contribution-grid-snake.svg)
 
+### 📊 3D Contribution Graph
+
+![3D GitHub Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=github-compact) -->
+
+
 ## 📊 GitHub Metrics
 ![Metrics](https://raw.githubusercontent.com/tunisch/tunisch/main/github-metrics.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=redical)
 
 ---
 
