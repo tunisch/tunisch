@@ -37,8 +37,7 @@
 
 
 ---
-## 📊 GitHub Metrics
-![Metrics](https://raw.githubusercontent.com/tunisch/tunisch/main/github-metrics.svg?v=1)
+
 
 
 ### 📊 3D Contribution Graph
@@ -52,6 +51,11 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/tunisch/tunisch/output/github-contribution-grid-snake.svg)
+
+## 📊 GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/tunisch/tunisch/main/github-metrics.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
 
 
 ---
