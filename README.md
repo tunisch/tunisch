@@ -45,18 +45,27 @@
 
 ---
 
-## 📊 GitHub Activity
+<h3 align="left">📊 GitHub Statistics</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="tunisch's GitHub Stats" height="195px" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical&langs_count=8" alt="tunisch's Top Languages" height="195px" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical&langs_count=8&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=radical" alt="tunisch's Activity Graph" width="100%" />
+</p>
 
-![GitHub Stats](https://stats-github.vercel.app/api?username=tunisch&show_icons=true&theme=radical)
+<h3 align="left">👤 Profile Overview</h3>
 
-![Top Languages](https://stats-github.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunisch&theme=radical)
+<p align="left">
+  <img src="https://img.shields.io/github/followers/tunisch?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="Followers" />
+  
+  <img src="https://img.shields.io/github/stars/tunisch?label=Total%20Stars&style=for-the-badge&color=gold&logo=reverbnation" alt="Total Stars" />
+  
+  <img src="https://komarev.com/ghpvc/?username=tunisch&color=brightgreen&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
+</p>
 
 ---
 
