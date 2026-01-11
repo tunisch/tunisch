@@ -64,11 +64,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="line-height: 0;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical&langs_count=8&text_color=ffffff&card_width=450" width="100%" height="220px" style="display: block; object-fit: stretch; margin: 0;" />
-    </td>
-    <td width="50%" valign="top" style="line-height: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=radical&bg_color=1a1b27&color=ffffff&line=fe428e&point=2ebc4f&area=true&hide_border=true&height=380&custom_title=%20" width="100%" height="220px" style="display: block; object-fit: stretch; margin: 0;" />
-    </td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&theme=radical&langs_count=10&text_color=ffffff&card_width=490&hide_progress=false" width="100%" height="380px" style="display: block; object-fit: fill;" />
+  <td width="60%" valign="top" style="line-height: 0;">
+  <div style="border-radius: 8px; overflow: hidden; height: 385px; background: #1a1b27;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=radical&bg_color=1a1b27&color=ffffff&line=fe428e&point=2ebc4f&area=true&hide_border=true&height=850" 
+         width="100%" 
+         height="450px" 
+         style="display: block; object-fit: cover; margin-top: -10px; margin-bottom: -55px;" />
+  </div>
+</td>
   </tr>
 </table>
 
