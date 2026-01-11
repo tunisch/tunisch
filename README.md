@@ -48,14 +48,22 @@
 <h3 align="left">📊 GitHub Statistics</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="tunisch's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="195px" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical&langs_count=8" alt="tunisch's Top Languages" height="195px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&layout=compact&theme=radical&langs_count=8" height="195px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=radical" alt="tunisch's Activity Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=tunisch&theme=radical" width="49.5%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=radical" width="49.5%" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
+</p>
+
+---
 
 <h3 align="left">👤 Profile Overview</h3>
 
