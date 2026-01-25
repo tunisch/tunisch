@@ -59,8 +59,11 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true&text_color=ffffff" width="100%" height="210px" style="display: block; object-fit: fill;" />
     </td>
     <td width="50%" valign="top">
-<img src="https://metrics.lecoq.io/tunisch?base=0&plugin_lines=1&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&config_timezone=Europe/Istanbul&theme=radical" width="100%" height="210px" style="display: block; object-fit: fill; border-radius: 5px;" />
-        </td>
+<img
+  src="https://metrics.lecoq.io/tunisch?base=0&plugin_lines=1&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&config_timezone=Europe/Istanbul&theme=radical"
+  width="100%"
+  height="210"
+/>
   </tr>
   <tr>
     <td width="50%" valign="top" style="line-height: 0;">
