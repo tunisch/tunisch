@@ -56,25 +56,28 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="5">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunisch&show_icons=true&theme=radical&count_private=true&include_all_commits=true&text_color=ffffff" width="100%" height="210px" style="display: block; object-fit: fill;" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tunisch&show_icons=true&theme=dark&count_private=true&include_all_commits=true&text_color=ffffff" width="100%" height="210px" style="display: block; object-fit: fill;" />
     </td>
     <td width="50%" valign="top">
-<img
-  src="https://metrics.lecoq.io/tunisch?base=0&plugin_lines=1&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&config_timezone=Europe/Istanbul&theme=radical"
-  width="100%"
-  height="210"
-/>
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=tunisch&theme=dark&text_color=ffffff&card_width=490&hide_border=false&cache_bust=20260125"
+    width="100%" height="380px" style="display: block; object-fit: fill;" />
+    </td>
   </tr>
+  
   <tr>
     <td width="50%" valign="top" style="line-height: 0;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&theme=radical&langs_count=10&text_color=ffffff&card_width=490&hide_progress=false" width="100%" height="380px" style="display: block; object-fit: fill;" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tunisch&theme=dark&langs_count=10&text_color=ffffff&card_width=570&hide_progress=false" width="100%" height="329px" style="display: block; object-fit: fill;" />
+      
   <td width="60%" valign="top" style="line-height: 0;">
+    
   <div style="border-radius: 8px; overflow: hidden; height: 385px; background: #1a1b27;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=radical&bg_color=1a1b27&color=ffffff&line=fe428e&point=2ebc4f&area=true&hide_border=true&height=850" 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tunisch&theme=dark&bg_color=000000&color=ffffff&line=f39c12&point=2ebc4f&area=true&hide_border=true&height=850" 
          width="100%" 
          height="450px" 
          style="display: block; object-fit: cover; margin-top: -10px; margin-bottom: -55px;" />
   </div>
+  
 </td>
   </tr>
 </table>
