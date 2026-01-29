@@ -60,7 +60,7 @@
     </td>
     <td width="50%" valign="top">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=tunisch&theme=dark&text_color=ffffff&card_width=490&hide_border=false&cache_bust=20260125"
+    src="https://nirzak-streak-stats.vercel.app/?user=tunisch&theme=dark&text_color=ffffff&card_width=490&hide_border=false&cache_bust=10260125"
     width="100%" height="380px" style="display: block; object-fit: fill;" />
     </td>
   </tr>
