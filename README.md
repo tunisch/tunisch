@@ -7,11 +7,11 @@
 </p>
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Software+Engineer;Java+Backend+Developer;Java+Spring-Framework)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Software+Engineer;Java+C+Sharp+Backend+Developer)
 
 ### 📚 About Me
-- 🎓 Software Engineer focused on **Java Backend Development**
-- ☕ Actively working with **Java & Spring Framework**
+- 🎓 Software Engineer focused on **Java & C# Backend Development**
+- ☕ Actively working with **C# and .NET framework**
 - 🧱 Interested in **Backend Architecture, REST APIs, Clean Code, and Scalable Systems**
 - 🤖 Background and interest in **Machine Learning & Computer Vision**
 - ✨ Passionate about **Photography & Visual Technologies**
@@ -25,7 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- ![Java 21](https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white) -->
+<!-- ![Java 8](https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=java&logoColor=white) -->
 
 ---
 
